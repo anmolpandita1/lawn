@@ -1,6 +1,5 @@
 ---
 tags:
-  - k8
   - kubernetes
   - k8s
 ---

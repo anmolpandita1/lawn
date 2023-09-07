@@ -1,3 +1,4 @@
+## Config
 ```bash
 # get help 
 kubectl config --help 
@@ -33,3 +34,4 @@ kubectl config delete-clusters
 kubectl config delete-contexts 
 kubeclt config delte-credentials
 ```
+

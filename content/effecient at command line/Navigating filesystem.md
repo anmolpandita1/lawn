@@ -3,7 +3,7 @@ tags:
   - bash
   - cli
 ---
-
+[]()
 ```bash
 cd /usr/share/lib/etc/bin              # No matter where you go...
 pwd
